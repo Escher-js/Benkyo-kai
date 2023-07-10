@@ -1,1 +1,0 @@
-# Benkyo-kai

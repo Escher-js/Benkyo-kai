@@ -1,8 +1,8 @@
-.App {
+.Top {
   text-align: center;
 }
 
-.App-logo {
+.Top-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -26,6 +26,9 @@
 
 .App-link {
   color: #61dafb;
+}
+.avatar {
+  border-radius: 50%;
 }
 
 @keyframes App-logo-spin {

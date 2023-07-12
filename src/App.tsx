@@ -2,7 +2,7 @@ import './App.css';
 const user = {
     name: 'Hedy Lamarr',
     imageUrl: 'https://i.imgur.com/yXOvdOSs.jpg',
-    imageSize: 90,
+    imageSize: 180,
   };
 
 export default function  Profile() {
